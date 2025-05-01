@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Debabrot Bhuyan — a Data Science Engineer passionate about building intelligent systems that drive real-world impact. With 8 years of experience across data science, MLOps, and cloud engineering, I specialize in developing end-to-end machine learning solutions that scale efficiently in production.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m currently leading a project to build an AI-powered chatbot using AWS Lex and Amazon Bedrock, combining conversational design with the power of large language models (LLMs). Leveraging tools like AWS CDK, Boto3, and Lambda, I'm crafting a fully automated, serverless architecture — while applying DevOps best practices using CodeCommit and CI/CD workflows.
+
+Throughout my career, I’ve worked on recommender systems, telemetry platforms, and NLP pipelines that have significantly improved performance, cost-efficiency, and user experience for global clients. I love translating technical complexity into clean, modular, and impactful solutions — and sharing what I learn along the way.
+
+This blog is where I explore the intersection of AI, cloud, and engineering — with practical tutorials, insights, and lessons from the field.

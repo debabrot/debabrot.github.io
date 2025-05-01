@@ -2,3 +2,17 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Jekyll output and cache
+.jekyll-cache/
+.sass-cache/
+
+# Bundler vendor directory
+vendor/
+
+# macOS system files
+.DS_Store
+
+# Other common ignores
+*.log
+*.lock
