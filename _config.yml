@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   for curious minds and tech enthusiasts.
 twitter_username: debabrotbhuyan
 github_username: debabrot
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -85,3 +85,9 @@ collections:
   chatbots:
     output: true
     permalink: /chatbots/:path/
+
+google_fonts:
+  - name: "Inter"
+    weights: "300,400,500,600,700"
+  - name: "JetBrains Mono" # For code blocks
+    weights: "400,500"
