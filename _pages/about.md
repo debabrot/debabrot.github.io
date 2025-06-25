@@ -3,10 +3,27 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I’m Debabrot Bhuyan — a Data Science Engineer passionate about building intelligent systems that drive real-world impact. With 8 years of experience across data science, MLOps, and cloud engineering, I specialize in developing end-to-end machine learning solutions that scale efficiently in production.
+---
 
-I’m currently leading a project to build an AI-powered chatbot using AWS Lex and Amazon Bedrock, combining conversational design with the power of large language models (LLMs). Leveraging tools like AWS CDK, Boto3, and Lambda, I'm crafting a fully automated, serverless architecture — while applying DevOps best practices using CodeCommit and CI/CD workflows.
+Hello! I'm Debabrot Bhuyan, a Senior Staff Engineer with 8+ years of experience building scalable Big Data and Machine Learning solutions that solve real-world business challenges. My journey began with a Chemical Engineering degree from **IIT Kharagpur** 🧪, but I soon discovered a passion for transforming data into intelligent systems that create measurable impact 🚀.
 
-Throughout my career, I’ve worked on recommender systems, telemetry platforms, and NLP pipelines that have significantly improved performance, cost-efficiency, and user experience for global clients. I love translating technical complexity into clean, modular, and impactful solutions — and sharing what I learn along the way.
+---
 
-This blog is where I explore the intersection of AI, cloud, and engineering — with practical tutorials, insights, and lessons from the field.
+
+📊 My expertise spans the entire ML lifecycle—from designing robust data pipelines and feature engineering frameworks, to deploying production-grade models with smart monitoring and telemetry systems. I've worked with major clients across Europe, USA, and Brazil 🌍, delivering solutions that have:
+
+- Achieved 40% cost savings via cloud optimization ☁️
+
+- Improved recommendation precision by 20% 🎯
+
+- Reduced ML runtime and latency across various applications ⚡
+
+---
+
+🤖 What sets me apart is my ability to blend classical ML with cutting-edge Generative AI. I'm hands-on with RAG architectures, Conversational AI (AWS Lex + Bedrock), and LLM-based solutions, while also practicing strong MLOps via tools like CI/CD, Docker, and AWS CDK 🛠️. My infrastructure-as-code approach ensures that the systems I build are scalable, cost-efficient, and easy to maintain over time 🧱.
+
+---
+
+🧠 Outside of pure coding, I enjoy mentoring teams, promoting best practices, and translating complex AI concepts into tangible business value 💡. Through this blog, I share real-world insights, tutorials, and lessons learned from deploying ML and GenAI systems in production. Follow along as we explore the evolving world of AI, data engineering, and the craft of building systems that actually matter. 💬📚
+
+---

@@ -36,7 +36,7 @@ plugins:
 author:
   name   : "Debabrot bhuyan"
   avatar : "/assets/images/profile_picture.jpg"
-  bio    : "Debabrot Bhuyan is a Data Science Engineer blending AI and cloud to build smart, scalable systems."
+  bio    : "Debabrot Bhuyan is a GenAI Engineer blending AI and cloud to build smart, scalable systems."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
