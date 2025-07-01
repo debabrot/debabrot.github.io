@@ -24,7 +24,7 @@ Whether you're a beginner exploring chatbots or an engineer curious about server
 
 ## 🔧 Project Architecture
 
-![Architecture Diagram](../assets/images/mood_based_music_recommender/architecture.png)
+![Architecture Diagram](assets/images/mood_based_music_recommender/architecture.png)
 
 ### ⚙️ Tech Stack:
 - **Frontend**: React + Vite (hosted on S3 + CloudFront)
