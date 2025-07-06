@@ -38,8 +38,8 @@ Whether you're a beginner exploring chatbots or an engineer curious about server
 
 ## 📚 Blog Series Index
 
-1. 🔍 [Intro to AWS Lex & Conversational AI](https://debabrot.github.io/chatbots/aws%20lex/intro-to-chatbots/)
-2. 🧱 [Project Architecture Overview](#) *(coming soon)*
+1. 🔍 [Intro to Chatbots & AWS Lex](https://debabrot.github.io/chatbots/aws%20lex/intro-to-chatbots/)
+2. 🧱 [Project Architecture Overview](https://debabrot.github.io/chatbots/aws%20lex/project-architecture-overview/)
 3. 🗣️ [Building the Lex Bot](#) *(coming soon)*
 4. ⚙️ [FastAPI Lambda Backend with Mangum](#) *(coming soon)*
 5. 🖥️ [React Frontend Hosting with S3 + CloudFront](#) *(coming soon)*
