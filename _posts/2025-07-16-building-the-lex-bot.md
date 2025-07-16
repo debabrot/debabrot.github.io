@@ -10,7 +10,7 @@ tags:
 layout: single
 ---
 
-# 🎤 Building the Lex Bot for Mood-Based Music Recommendation
+## 🎤 Building the Lex Bot for Mood-Based Music Recommendation
 
 In this post, I will cover the core of the bot—**building the Lex bot itself**. I will define intents, create slots, configure prompts, and route the conversation using Lambda for fulfillment. I will also touch on slot validation and custom routing logic.
 
