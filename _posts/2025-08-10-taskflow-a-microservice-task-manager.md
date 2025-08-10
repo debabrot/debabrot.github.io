@@ -13,8 +13,6 @@ tags:
 layout: single
 ---
 
-# 🚀 Introducing TaskFlow: A Secure Task Manager Microservice
-
 > _"Ever wanted to build your own secure task manager from scratch? Meet **TaskFlow** — a lightweight, JWT-secured microservice that helps users manage tasks with confidence."_  
 
 ---
@@ -29,6 +27,7 @@ layout: single
 ✅ Run everything locally with one command  
 
 It’s built with:
+
 - **FastAPI** (backend)
 - **PostgreSQL** (database)
 - **Streamlit** (frontend)
@@ -38,6 +37,7 @@ It’s built with:
 And yes — it’s **fully functional**, tested, and ready to run.
 
 But more than that — it’s a **learning scaffold** for concepts I once found intimidating:
+
 - How do APIs actually work?
 - What’s the difference between Pydantic schemas and SQLAlchemy models?
 - How do you securely store passwords?
@@ -52,31 +52,35 @@ Spoiler: I now understand all of it — and you can too.
 Here’s how TaskFlow works — in just a few seconds:
 
 ### 1. 🔹 User Registration
+
 New users can sign up with a valid email and strong password.
 
 ![Register](/assets/images/taskflow/register_user.gif)
 
 ### 2. 🔹 Login & Authentication
+
 Users log in and receive a secure **JWT access token**. No sessions, no cookies — just stateless, verifiable tokens.
 
 ![Login](/assets/images/taskflow/login.gif)
 
 ### 3. 🔹 Create & Manage Tasks
+
 Once logged in, users can create, view, and manage their tasks in a clean, responsive Streamlit UI.
 
 ![Tasks](/assets/images/taskflow/create_tasks.gif)
 
-> *Note: These GIFs are part of the project repo — feel free to explore the real thing!*
+> _Note: These GIFs are part of the project repo — feel free to explore the real thing!_
 
 ---
 
 ## 💡 Why This Matters
 
-You might think: *"Another task app? Really?"*
+You might think: _"Another task app? Really?"_
 
 But here’s the truth: **CRUD + Authentication** is the foundation of 90% of web apps.
 
 Whether you're building a note-taking app, a CRM, or a SaaS platform — you’ll need:
+
 - User management
 - Data persistence
 - Secure access control
@@ -114,6 +118,7 @@ streamlit run frontend/app/main.py
 That’s it.
 
 You’ll have:
+
 - FastAPI running on `http://localhost:8000` (with live docs at `/docs`)
 - PostgreSQL database managed via Docker
 - Streamlit frontend on `http://localhost:8501`
@@ -125,6 +130,7 @@ You’ll have:
 ## 🔮 What’s Next?
 
 TaskFlow was just the beginning. Now that I’ve mastered the fundamentals, I’m extending it with:
+
 - **Multi-tenancy** – So teams or organizations can have isolated workspaces
 - **Role-Based Access Control (RBAC)** – Admin, editor, viewer roles
 - **HMAC request signing** – For enhanced API security
@@ -154,7 +160,7 @@ class UserCreate(BaseModel):
 
 ...I blinked. Twice.
 
-“What is this *alien syntax*?” I thought. “Since when did Python get types?”
+“What is this _alien syntax_?” I thought. “Since when did Python get types?”
 
 That moment sparked a journey — one that led me to dive deep into **microservices, APIs, authentication, databases, and security**. And the result? **TaskFlow**: a full-stack, production-style task management microservice built with **FastAPI, PostgreSQL, JWT, and Streamlit**.
 
