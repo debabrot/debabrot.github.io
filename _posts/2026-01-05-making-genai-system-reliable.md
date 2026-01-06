@@ -40,5 +40,3 @@ If you're shipping GenAI, ask yourself:
 *Where is your system brittle? And what’s your Plan B when the LLM inevitably glitches?*
 
 ---
-
-*Have you faced similar issues? How did you harden your GenAI pipelines? I’d love to hear your stories in the comments.*
