@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Building a Product Enrichment Workflow with FastAPI and LangGraph"
-date: 2026-06-08
 categories:
     - AI
     - Python
@@ -12,6 +10,7 @@ tags:
     - fastapi
     - llm
     - agents
+layout: single
 ---
 
 # Building a Product Enrichment Workflow with FastAPI, LangGraph, and Streamlit
